@@ -1,0 +1,14 @@
+C:\Users\moh\source\repos\overriding VS hiding\overriding VS hiding\bin\Debug\net6.0\overriding VS hiding.exe
+C:\Users\moh\source\repos\overriding VS hiding\overriding VS hiding\bin\Debug\net6.0\overriding VS hiding.deps.json
+C:\Users\moh\source\repos\overriding VS hiding\overriding VS hiding\bin\Debug\net6.0\overriding VS hiding.runtimeconfig.json
+C:\Users\moh\source\repos\overriding VS hiding\overriding VS hiding\bin\Debug\net6.0\overriding VS hiding.dll
+C:\Users\moh\source\repos\overriding VS hiding\overriding VS hiding\bin\Debug\net6.0\overriding VS hiding.pdb
+C:\Users\moh\source\repos\overriding VS hiding\overriding VS hiding\obj\Debug\net6.0\overriding VS hiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moh\source\repos\overriding VS hiding\overriding VS hiding\obj\Debug\net6.0\overriding VS hiding.AssemblyInfoInputs.cache
+C:\Users\moh\source\repos\overriding VS hiding\overriding VS hiding\obj\Debug\net6.0\overriding VS hiding.AssemblyInfo.cs
+C:\Users\moh\source\repos\overriding VS hiding\overriding VS hiding\obj\Debug\net6.0\overriding VS hiding.csproj.CoreCompileInputs.cache
+C:\Users\moh\source\repos\overriding VS hiding\overriding VS hiding\obj\Debug\net6.0\overriding VS hiding.dll
+C:\Users\moh\source\repos\overriding VS hiding\overriding VS hiding\obj\Debug\net6.0\refint\overriding VS hiding.dll
+C:\Users\moh\source\repos\overriding VS hiding\overriding VS hiding\obj\Debug\net6.0\overriding VS hiding.pdb
+C:\Users\moh\source\repos\overriding VS hiding\overriding VS hiding\obj\Debug\net6.0\overriding VS hiding.genruntimeconfig.cache
+C:\Users\moh\source\repos\overriding VS hiding\overriding VS hiding\obj\Debug\net6.0\ref\overriding VS hiding.dll

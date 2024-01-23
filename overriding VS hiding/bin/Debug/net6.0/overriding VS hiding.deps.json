@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "overriding VS hiding/1.0.0": {
+        "runtime": {
+          "overriding VS hiding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "overriding VS hiding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
